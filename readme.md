@@ -1,9 +1,9 @@
 # Polyfills/JavaScript Custom Implementation  List -
 
 ## Function Polyfills - 
-1. Implement Function.bind using call/apply **(DONE)**
-1. Implement Function.apply using call **(DONE)**
-1. Implement Function.call using apply **(DONE)**
+1. Implement Function.bind using call/apply ****
+1. Implement Function.apply using call ****
+1. Implement Function.call using apply ****
 
 ## Array Polyfills - 
 1. Array.map method on Array prototype
@@ -32,7 +32,7 @@
 1. prototype vs [[Prototype]]
 1. Inheritance in JS using Constructor functions (ES5 way)
 ## JS Problems - 
-1. Implement SetInterval Polyfill using setTimeout **(DONE)**
+1. Implement SetInterval Polyfill using setTimeout ****
 1. Implement debounce
 1. Implement throttle
 1. Write a function memoize(memo) that will subsequent calls to a function
